@@ -1,1 +1,1 @@
-Deep-Learning/EEG Project/Building_ Deapdataset
+Deep-Learning/EEG Project/Building_ Deap dataset
